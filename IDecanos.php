@@ -1,5 +1,5 @@
 <?php
-    //Comentario de prueba para el paso 6
+    //Comentario de prueba para el paso 6 del IDecanos.php
     $cedula = $_POST['cedula'];
     $nombre = $_POST['nombre'];
     $apellidos = $_POST['apellidos'];
