@@ -1,5 +1,5 @@
 <?php
-    //Cambios Prueba Para rama Git
+    //Comentario de prueba para el paso 6
     $cedula = $_POST['cedula'];
     $nombre = $_POST['nombre'];
     $apellidos = $_POST['apellidos'];
